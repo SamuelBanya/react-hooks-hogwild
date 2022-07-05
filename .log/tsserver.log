@@ -1,0 +1,44 @@
+Info 0    [11:48:05.887] Starting TS Server
+Info 1    [11:48:05.890] Version: 4.7.4
+Info 2    [11:48:05.890] Arguments: /Users/samuelbanya/.nvm/versions/node/v16.14.2/bin/node /Users/samuelbanya/.nvm/versions/node/v16.14.2/lib/node_modules/typescript/lib/tsserver.js --logFile /Users/samuelbanya/hub/Development/code/phase-2/react-hooks-hogwild/.log/tsserver.log --logVerbosity info --cancellationPipeName /private/var/folders/g1/tzqw879134sg6jrks5nf5nhm0000gn/T/5c95fdb3e7778331b05d64ee70dca822/tscancellation*
+Info 3    [11:48:05.890] Platform: darwin NodeVersion: 16 CaseSensitive: false
+Info 4    [11:48:05.890] ServerMode: undefined syntaxOnly: false hasUnknownServerMode: undefined
+Info 5    [11:48:05.906] Format host information updated
+Info 6    [11:48:05.915] Search path: /Users/samuelbanya/hub/Development/code/phase-2/react-hooks-hogwild/src/components
+Info 7    [11:48:05.916] For info: /Users/samuelbanya/hub/Development/code/phase-2/react-hooks-hogwild/src/components/App.js :: No config files found.
+Info 8    [11:48:05.922] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 9    [11:48:07.713] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 1 structureChanged: true structureIsReused:: Not Elapsed: 1790.8410310000181ms
+Info 10   [11:48:07.713] Project '/dev/null/inferredProject1*' (Inferred)
+Info 11   [11:48:07.714] 	Files (209)
+
+Info 12   [11:48:07.714] -----------------------------------------------
+Info 13   [11:48:07.741] AutoImportProviderProject: found 7 root files in 7 dependencies in 25.245951000601053 ms
+Info 14   [11:48:07.743] Starting updateGraphWorker: Project: /dev/null/autoImportProviderProject1*
+Info 15   [11:48:08.243] Finishing updateGraphWorker: Project: /dev/null/autoImportProviderProject1* Version: 1 structureChanged: true structureIsReused:: Not Elapsed: 499.8720860015601ms
+Info 16   [11:48:08.243] Project '/dev/null/autoImportProviderProject1*' (AutoImportProvider)
+Info 17   [11:48:08.243] 	Files (146)
+
+Info 18   [11:48:08.243] -----------------------------------------------
+Info 19   [11:48:08.456] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 20   [11:48:08.538] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 2 structureChanged: true structureIsReused:: SafeModules Elapsed: 82.37058399990201ms
+Info 21   [11:48:08.538] Different program with same set of files
+Info 22   [11:48:08.540] getCompletionData: Get current token: 0.010415000841021538
+Info 23   [11:48:08.540] getCompletionData: Is inside comment: 0.005278000608086586
+Info 24   [11:48:08.540] getCompletionData: Get previous token: 0.025040000677108765
+Info 25   [11:48:08.544] getExportInfoMap: cache miss or empty; calculating new results
+Info 26   [11:48:08.615] forEachExternalModuleToImportFrom autoImportProvider: 31.01699100062251
+Info 27   [11:48:08.615] getExportInfoMap: done in 71.28133499994874 ms
+Info 28   [11:48:08.626] collectAutoImports: resolved 0 module specifiers, plus 0 ambient and 0 from cache
+Info 29   [11:48:08.626] collectAutoImports: response is complete
+Info 30   [11:48:08.626] collectAutoImports: 10.495569000020623
+Info 31   [11:48:08.626] getCompletionData: Semantic work: 85.63177999854088
+Info 32   [11:48:08.646] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 19.801381999626756
+Info 33   [11:48:08.651] DirectoryWatcher:: Triggered with /Users/samuelbanya/hub/Development/code/phase-2/react-hooks-hogwild/src/components/.#App.js :: WatchInfo: /Users/samuelbanya/hub/Development/code/phase-2/react-hooks-hogwild/src/components 0 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 34   [11:48:08.651] Elapsed:: 0.30518800020217896ms DirectoryWatcher:: Triggered with /Users/samuelbanya/hub/Development/code/phase-2/react-hooks-hogwild/src/components/.#App.js :: WatchInfo: /Users/samuelbanya/hub/Development/code/phase-2/react-hooks-hogwild/src/components 0 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 35   [11:48:10.017] DirectoryWatcher:: Triggered with /Users/samuelbanya/hub/Development/code/phase-2/react-hooks-hogwild/src/components/.#App.js :: WatchInfo: /Users/samuelbanya/hub/Development/code/phase-2/react-hooks-hogwild/src/components 0 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 36   [11:48:10.017] Elapsed:: 0.05921499989926815ms DirectoryWatcher:: Triggered with /Users/samuelbanya/hub/Development/code/phase-2/react-hooks-hogwild/src/components/.#App.js :: WatchInfo: /Users/samuelbanya/hub/Development/code/phase-2/react-hooks-hogwild/src/components 0 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 37   [11:48:10.209] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 38   [11:48:10.301] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 3 structureChanged: true structureIsReused:: SafeModules Elapsed: 91.55598099902272ms
+Info 39   [11:48:10.301] Different program with same set of files
+Info 40   [11:49:37.192] Search path: /Users/samuelbanya/hub/Development/code/phase-2/react-hooks-hogwild/src/components
+Info 41   [11:49:37.192] For info: /Users/samuelbanya/hub/Development/code/phase-2/react-hooks-hogwild/src/components/Tile.js :: No config files found.
